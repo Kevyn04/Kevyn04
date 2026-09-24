@@ -7,7 +7,7 @@
 
 <br><br>
 
-# Hey there, I'm Kevyn 👋
+# Hey there, I'm Kevyn!!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Building+Hangout;Always+learning%2C+always+creating)](https://git.io/typing-svg)
 
@@ -21,7 +21,7 @@
 
 <br>
 
-## 🔴 About Me
+## 🔥 About Me
 
 <table>
   <tr>
