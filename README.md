@@ -70,8 +70,8 @@ publishes them to an output branch. Until that is set up, the image
 below will not appear.
 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kevyn04/Kevyn04/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Kevyn04/Kevyn04/output/github-contribution-grid-snake.svg" alt="Animated contribution snake">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kevyn04/Kevyn04/output/github-snake-red-dark.svg">
+  <img src="https://raw.githubusercontent.com/Kevyn04/Kevyn04/output/github-snake-red.svg" alt="Red animated contribution snake">
 </picture>
 
 <br><br>
