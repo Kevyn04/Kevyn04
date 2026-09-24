@@ -36,7 +36,7 @@
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="[ABOUT_ME_IMAGE_URL]" alt="Kevyn or an illustration representing his work" width="260">
+      <img src="https://github.com/Kevyn04.png" alt="Kevyn's profile photo" width="220">
     </td>
   </tr>
 </table>
