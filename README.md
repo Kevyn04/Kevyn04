@@ -9,19 +9,19 @@
 
 # Hey there, I'm Kevyn 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Building+Hangout;Always+learning%2C+always+creating)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Building+Hangout;Always+learning%2C+always+creating)](https://git.io/typing-svg)
 
 <br>
 
-[![Followers](https://img.shields.io/github/followers/Kevyn04?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=EF93C4)](https://github.com/Kevyn04?tab=followers)
-[![Hangout Stars](https://img.shields.io/github/stars/Kevyn04/HangoutProject?style=for-the-badge&logo=github&logoColor=white&label=Hangout%20Stars&color=F8BBD0)](https://github.com/Kevyn04/HangoutProject/stargazers)
-![Profile Views](https://komarev.com/ghpvc/?username=Kevyn04&style=for-the-badge&label=Profile%20Views&color=FF69B4)
+[![Followers](https://img.shields.io/github/followers/Kevyn04?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=E85D5D)](https://github.com/Kevyn04?tab=followers)
+[![Hangout Stars](https://img.shields.io/github/stars/Kevyn04/HangoutProject?style=for-the-badge&logo=github&logoColor=white&label=Hangout%20Stars&color=FF6B6B)](https://github.com/Kevyn04/HangoutProject/stargazers)
+![Profile Views](https://komarev.com/ghpvc/?username=Kevyn04&style=for-the-badge&label=Profile%20Views&color=FF8A80)
 
 </div>
 
 <br>
 
-## 🌸 About Me
+## ❤️ About Me
 
 <table>
   <tr>
@@ -54,11 +54,11 @@
 
 ## 📈 GitHub Activity
 
-<img src="https://streak-stats.demolab.com?user=Kevyn04&theme=transparent&hide_border=true&ring=EF93C4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=EF93C4&dates=F8BBD0" alt="Kevyn's GitHub streak" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Kevyn04&theme=transparent&hide_border=true&ring=E85D5D&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=E85D5D&dates=FF8A80" alt="Kevyn's GitHub streak" width="49%" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevyn04&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=EF93C4&hide_border=true" alt="Kevyn's GitHub activity graph" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevyn04&bg_color=00000000&color=E85D5D&line=FF6B6B&point=FF8A80&area=true&area_color=E85D5D&hide_border=true" alt="Kevyn's GitHub activity graph" width="98%" />
 
 <br>
 
@@ -79,15 +79,15 @@ below will not appear.
 ## 💌 Let's Connect
 
 <!-- Replace these placeholders with your real links. Remove badges you do not want to share. -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white)]([LINKEDIN_URL])
-[![X](https://img.shields.io/badge/X-F8BBD0?style=for-the-badge&logo=x&logoColor=white)]([X_URL])
-[![Instagram](https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)]([INSTAGRAM_URL])
-[![TikTok](https://img.shields.io/badge/TikTok-EF93C4?style=for-the-badge&logo=tiktok&logoColor=white)]([TIKTOK_URL])
-[![YouTube](https://img.shields.io/badge/YouTube-F8BBD0?style=for-the-badge&logo=youtube&logoColor=white)]([YOUTUBE_URL])
-[![Email](https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E85D5D?style=for-the-badge&logo=linkedin&logoColor=white)]([LINKEDIN_URL])
+[![X](https://img.shields.io/badge/X-FF6B6B?style=for-the-badge&logo=x&logoColor=white)]([X_URL])
+[![Instagram](https://img.shields.io/badge/Instagram-FF8A80?style=for-the-badge&logo=instagram&logoColor=white)]([INSTAGRAM_URL])
+[![TikTok](https://img.shields.io/badge/TikTok-E85D5D?style=for-the-badge&logo=tiktok&logoColor=white)]([TIKTOK_URL])
+[![YouTube](https://img.shields.io/badge/YouTube-FF6B6B?style=for-the-badge&logo=youtube&logoColor=white)]([YOUTUBE_URL])
+[![Email](https://img.shields.io/badge/Email-FF8A80?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=130&section=footer" alt="Pink waving footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E85D5D,50:FF6B6B,100:FF8A80&height=130&section=footer" alt="Red waving footer" width="100%">
 
 </div>
