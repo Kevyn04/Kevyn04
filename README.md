@@ -32,7 +32,7 @@
         🔭 I'm currently building <strong>Hangout</strong>, an app for finding nearby events and activities.<br>
         🌱 I'm learning more about software development as I build and improve my projects.<br>
         💬 Ask me about <strong>Hangout, coding projects, or what I'm working on next</strong>.<br>
-        ✨ Outside of code, I enjoy <strong>[YOUR_INTERESTS]</strong>.
+        ✨ Outside of code, I enjoy <strong>going to the gym, reading, listening to music, going out with friends, and meeting new people</strong>.
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
