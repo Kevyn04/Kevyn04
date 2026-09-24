@@ -58,8 +58,6 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevyn04&bg_color=00000000&color=DC2626&line=EF4444&point=B91C1C&area=true&area_color=DC2626&hide_border=true" alt="Kevyn's GitHub activity graph" width="98%" />
-
 <br>
 
 ## 🐍 Contribution Snake
