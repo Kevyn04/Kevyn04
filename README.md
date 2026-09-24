@@ -82,7 +82,7 @@ below will not appear.
 [![Instagram](https://img.shields.io/badge/Instagram-EF4444?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kevyn_sy/)
 [![TikTok](https://img.shields.io/badge/TikTok-B91C1C?style=for-the-badge&logo=tiktok&logoColor=white)]([TIKTOK_URL])
 [![YouTube](https://img.shields.io/badge/YouTube-DC2626?style=for-the-badge&logo=youtube&logoColor=white)]([YOUTUBE_URL])
-[![Email](https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[YOUR_EMAIL])
+[![Email](https://img.shields.io/badge/Email-EF4444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:KevynVictor.salonga8@gmail.com)
 
 <br><br>
 
