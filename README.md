@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
-  <img src="art/header-light.png" alt="Banner for Kevyn Victor Salonga" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="Kevyn04-banners/header-dark.png">
+  <img src="Kevyn04-banners/header-light.png" alt="Banner for Kevyn Victor Salonga" width="100%">
 </picture>
 
 <br><br>
