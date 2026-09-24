@@ -77,7 +77,7 @@ below will not appear.
 ## 🔗 Let's Connect
 
 <!-- Replace these placeholders with your real links. Remove badges you do not want to share. -->
-[![LinkedIn](https://www.linkedin.com/in/kevyn-victor-salonga-97497a26a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B91C1C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevyn-victor-salonga-97497a26a/)
 [![X](https://img.shields.io/badge/X-DC2626?style=for-the-badge&logo=x&logoColor=white)]([X_URL])
 [![Instagram](https://img.shields.io/badge/Instagram-EF4444?style=for-the-badge&logo=instagram&logoColor=white)]([INSTAGRAM_URL])
 [![TikTok](https://img.shields.io/badge/TikTok-B91C1C?style=for-the-badge&logo=tiktok&logoColor=white)]([TIKTOK_URL])
